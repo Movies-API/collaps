@@ -1,6 +1,142 @@
 {
   "results": [
     {
+      "id": 18084,
+      "name": "Трактористы",
+      "type": "film",
+      "age": "6+",
+      "quality": "SD",
+      "origin_name": "",
+      "year": 1939,
+      "activate_time": "2020-05-07 13:23:00",
+      "imdb": "6.5",
+      "imdb_id": "0032050",
+      "kinopoisk": "7.2",
+      "kinopoisk_id": "42279",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/8/0/8/4/0/0/0/0/0/610x900_18084.jpg",
+      "genre": {
+        "19": "Комедия",
+        "8": "Мелодрама",
+        "7": "Драма"
+      },
+      "country": {
+        "24": "СССР"
+      }
+    },
+    {
+      "id": 18071,
+      "name": "Становление",
+      "type": "film",
+      "age": null,
+      "quality": "FHD (1080p)",
+      "origin_name": "Becoming",
+      "year": 2020,
+      "activate_time": "2020-05-07 12:51:00",
+      "imdb": "6.8",
+      "imdb_id": "12221748",
+      "kinopoisk": null,
+      "kinopoisk_id": null,
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/8/0/7/1/0/0/0/0/0/610x900_18071.jpg",
+      "genre": {
+        "54": "Документальный",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "78": "Биографии",
+        "40": "Netflix",
+        "39": "На реальных событиях"
+      }
+    },
+    {
+      "id": 18075,
+      "name": "От отца к сыну",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Van pao te",
+      "year": 2018,
+      "activate_time": "2020-05-07 12:49:00",
+      "imdb": "6.5",
+      "imdb_id": "7955554",
+      "kinopoisk": null,
+      "kinopoisk_id": "1112044",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/8/0/7/5/0/0/0/0/0/610x900_18075.jpg",
+      "genre": {
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "13": "Тайвань"
+      }
+    },
+    {
+      "id": 17838,
+      "name": "Отрицание",
+      "type": "film",
+      "age": null,
+      "quality": "FHD (1080p)",
+      "origin_name": "Denial",
+      "year": 2016,
+      "activate_time": "2020-05-07 12:49:00",
+      "imdb": "6.7",
+      "imdb_id": "4645330",
+      "kinopoisk": "6.6",
+      "kinopoisk_id": "943407",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/7/8/3/8/0/0/0/0/0/610x900_17838.jpg",
+      "genre": {
+        "27": "Биографический",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США",
+        "2": "Великобритания"
+      }
+    },
+    {
+      "id": 18079,
+      "name": "Студент",
+      "type": "film",
+      "age": null,
+      "quality": "SD",
+      "origin_name": "The Student",
+      "year": 2017,
+      "activate_time": "2020-05-07 12:47:00",
+      "imdb": "4.4",
+      "imdb_id": "5873672",
+      "kinopoisk": "4.8",
+      "kinopoisk_id": "991941",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/8/0/7/9/0/0/0/0/0/610x900_18079.jpg",
+      "genre": {
+        "13": "Триллер"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
       "id": 18078,
       "name": "Меня это не касается",
       "type": "film",
@@ -6410,217 +6546,6 @@
       },
       "country": {
         "1": "США"
-      }
-    },
-    {
-      "id": 17853,
-      "name": "Бухта Данте",
-      "type": "series",
-      "age": "18+",
-      "quality": "SD",
-      "origin_name": "Dante&#x27;s Cove",
-      "year": 2004,
-      "activate_time": "2020-05-06 11:03:00",
-      "imdb": "5.9",
-      "imdb_id": "0414731",
-      "kinopoisk": "6.0",
-      "kinopoisk_id": "409003",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/7/8/5/3/0/0/0/0/0/610x900_17853.jpg",
-      "genre": {
-        "26": "Ужасы",
-        "24": "Детектив",
-        "13": "Триллер",
-        "8": "Мелодрама",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      },
-      "serial_status": "offline",
-      "seasons": [
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            }
-          ]
-        },
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 2,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            }
-          ]
-        },
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 3,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 17615,
-      "name": "Секса круглый ноль 2",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Saekjeuksigong 2",
-      "year": 2007,
-      "activate_time": "2020-05-06 10:59:00",
-      "imdb": "6.1",
-      "imdb_id": "1556214",
-      "kinopoisk": "6.2",
-      "kinopoisk_id": "488461",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/7/6/1/5/0/0/0/0/0/610x900_17615.jpg",
-      "genre": {
-        "19": "Комедия",
-        "8": "Мелодрама"
-      },
-      "country": {
-        "16": "Корея Южная"
-      }
-    },
-    {
-      "id": 17722,
-      "name": "Нерождённый",
-      "type": "film",
-      "age": null,
-      "quality": "FHD (1080p)",
-      "origin_name": "The Unborn",
-      "year": 2020,
-      "activate_time": "2020-05-06 10:57:00",
-      "imdb": "3.6",
-      "imdb_id": "10423074",
-      "kinopoisk": null,
-      "kinopoisk_id": "1277747",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/7/7/2/2/0/0/0/0/0/610x900_17722.jpg",
-      "genre": {
-        "26": "Ужасы",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "14": "Для взрослых"
-      }
-    },
-    {
-      "id": 17875,
-      "name": "Копание",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Kopanje",
-      "year": 2018,
-      "activate_time": "2020-05-06 10:56:00",
-      "imdb": "7.4",
-      "imdb_id": "8094282",
-      "kinopoisk": null,
-      "kinopoisk_id": "1151533",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/7/8/7/5/0/0/0/0/0/610x900_17875.jpg",
-      "genre": {
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "59": "Македония"
-      },
-      "collection": {
-        "29": "Психологические"
-      }
-    },
-    {
-      "id": 17858,
-      "name": "Возвращайся в Китай",
-      "type": "film",
-      "age": null,
-      "quality": "SD",
-      "origin_name": "Go Back to China",
-      "year": 2019,
-      "activate_time": "2020-05-06 10:49:00",
-      "imdb": "5.8",
-      "imdb_id": "7957314",
-      "kinopoisk": null,
-      "kinopoisk_id": "1144013",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/7/8/5/8/0/0/0/0/0/610x900_17858.jpg",
-      "genre": {
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США",
-        "19": "Китай"
       }
     }
   ]

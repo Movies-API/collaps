@@ -1,6 +1,155 @@
 {
   "results": [
     {
+      "id": 24594,
+      "name": "Битва за Чернобыль",
+      "type": "film",
+      "age": null,
+      "quality": "SD",
+      "origin_name": "The Battle of Chernobyl",
+      "year": 2006,
+      "activate_time": "2020-06-18 19:11:00",
+      "imdb": "8.3",
+      "imdb_id": "1832484",
+      "kinopoisk": "8.3",
+      "kinopoisk_id": "431202",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/4/5/9/4/0/0/0/0/0/610x900_24594.jpg",
+      "genre": {
+        "54": "Документальный",
+        "28": "Исторический",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "106": "Discovery",
+        "39": "На реальных событиях"
+      }
+    },
+    {
+      "id": 24562,
+      "name": "Мизерере",
+      "type": "film",
+      "age": "16+",
+      "quality": "FHD (1080p)",
+      "origin_name": "La marque des anges - Miserere",
+      "year": 2013,
+      "activate_time": "2020-06-18 18:57:00",
+      "imdb": "5.7",
+      "imdb_id": "2354215",
+      "kinopoisk": "5.7",
+      "kinopoisk_id": "677174",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/4/5/6/2/0/0/0/0/0/610x900_24562.jpg",
+      "genre": {
+        "25": "Криминал",
+        "24": "Детектив",
+        "13": "Триллер"
+      },
+      "country": {
+        "9": "Франция",
+        "20": "Германия",
+        "29": "Бельгия"
+      }
+    },
+    {
+      "id": 24448,
+      "name": "Рай",
+      "type": "film",
+      "age": "18+",
+      "quality": "FHD (1080p)",
+      "origin_name": "Heaven",
+      "year": 2002,
+      "activate_time": "2020-06-18 18:52:00",
+      "imdb": "7.0",
+      "imdb_id": "0246677",
+      "kinopoisk": "7.1",
+      "kinopoisk_id": "694",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/4/4/4/8/0/0/0/0/0/610x900_24448.jpg",
+      "genre": {
+        "25": "Криминал",
+        "13": "Триллер",
+        "8": "Мелодрама",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США",
+        "2": "Великобритания",
+        "8": "Италия",
+        "9": "Франция",
+        "20": "Германия"
+      }
+    },
+    {
+      "id": 24559,
+      "name": "Хьюстон, у нас проблема",
+      "type": "film",
+      "age": "16+",
+      "quality": "SD",
+      "origin_name": "Houston, We Have a Problem",
+      "year": 2016,
+      "activate_time": "2020-06-18 18:49:00",
+      "imdb": "7.9",
+      "imdb_id": "5518022",
+      "kinopoisk": null,
+      "kinopoisk_id": "1040742",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/4/5/5/9/0/0/0/0/0/610x900_24559.jpg",
+      "genre": {
+        "54": "Документальный",
+        "7": "Драма"
+      },
+      "country": {
+        "20": "Германия",
+        "51": "Чехия",
+        "52": "Словения",
+        "76": "Хорватия",
+        "85": "Катар"
+      }
+    },
+    {
+      "id": 24571,
+      "name": "Рай: Вера",
+      "type": "film",
+      "age": "18+",
+      "quality": "SD",
+      "origin_name": "Paradies: Glaube",
+      "year": 2012,
+      "activate_time": "2020-06-18 18:46:00",
+      "imdb": "6.8",
+      "imdb_id": "2371824",
+      "kinopoisk": "6.5",
+      "kinopoisk_id": "694240",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/4/5/7/1/0/0/0/0/0/610x900_24571.jpg",
+      "genre": {
+        "7": "Драма"
+      },
+      "country": {
+        "9": "Франция",
+        "20": "Германия",
+        "49": "Австрия"
+      }
+    },
+    {
       "id": 24574,
       "name": "Ингрид Бергман: В её собственных словах",
       "type": "film",
@@ -5912,152 +6061,6 @@
       },
       "country": {
         "26": "Индия"
-      }
-    },
-    {
-      "id": 24094,
-      "name": "Новичок",
-      "type": "film",
-      "age": null,
-      "quality": "SD",
-      "origin_name": "Newcomer",
-      "year": 2015,
-      "activate_time": "2020-06-18 09:14:00",
-      "imdb": "5.5",
-      "imdb_id": "3526470",
-      "kinopoisk": null,
-      "kinopoisk_id": "837106",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/4/0/9/4/0/0/0/0/0/610x900_24094.jpg",
-      "genre": {
-        "25": "Криминал",
-        "13": "Триллер",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США",
-        "15": "Сербия"
-      }
-    },
-    {
-      "id": 23832,
-      "name": "Никому не нужна ночь",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Nadie quiere la noche",
-      "year": 2015,
-      "activate_time": "2020-06-18 09:11:00",
-      "imdb": "6.2",
-      "imdb_id": "2735996",
-      "kinopoisk": "6.0",
-      "kinopoisk_id": "744488",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/3/8/3/2/0/0/0/0/0/610x900_23832.jpg",
-      "genre": {
-        "7": "Драма"
-      },
-      "country": {
-        "3": "Испания",
-        "9": "Франция",
-        "33": "Болгария"
-      }
-    },
-    {
-      "id": 24023,
-      "name": "День святого Валентина",
-      "type": "film",
-      "age": null,
-      "quality": "SD",
-      "origin_name": "Valentinas vienas",
-      "year": 2013,
-      "activate_time": "2020-06-18 08:36:00",
-      "imdb": "6.3",
-      "imdb_id": "2673258",
-      "kinopoisk": "5.0",
-      "kinopoisk_id": "734753",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/4/0/2/3/0/0/0/0/0/610x900_24023.jpg",
-      "genre": {
-        "19": "Комедия",
-        "8": "Мелодрама"
-      },
-      "country": {
-        "43": "Литва"
-      },
-      "collection": {
-        "38": "Про любовь"
-      }
-    },
-    {
-      "id": 24089,
-      "name": "Прах",
-      "type": "film",
-      "age": "16+",
-      "quality": "SD",
-      "origin_name": "Dust",
-      "year": 2001,
-      "activate_time": "2020-06-18 08:17:00",
-      "imdb": "6.6",
-      "imdb_id": "0243232",
-      "kinopoisk": "6.6",
-      "kinopoisk_id": "22857",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/4/0/8/9/0/0/0/0/0/610x900_24089.jpg",
-      "genre": {
-        "29": "Вестерн",
-        "10": "Зарубежный",
-        "8": "Мелодрама",
-        "7": "Драма"
-      },
-      "country": {
-        "2": "Великобритания",
-        "8": "Италия",
-        "20": "Германия",
-        "59": "Македония"
-      },
-      "collection": {
-        "12": "Для мужчин"
-      }
-    },
-    {
-      "id": 24072,
-      "name": "Согласен, но на время",
-      "type": "film",
-      "age": "16+",
-      "quality": "FHD (1080p)",
-      "origin_name": "I Do... Until I Don't",
-      "year": 2017,
-      "activate_time": "2020-06-18 06:15:00",
-      "imdb": "4.2",
-      "imdb_id": "3234084",
-      "kinopoisk": "5.0",
-      "kinopoisk_id": "804674",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/4/0/7/2/0/0/0/0/0/610x900_24072.jpg",
-      "genre": {
-        "19": "Комедия"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "36": "Романтические комедии"
       }
     }
   ]
