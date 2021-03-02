@@ -1,6 +1,71 @@
 {
   "results": [
     {
+      "id": 1791,
+      "name": "Снежная королева 3. Огонь и лед",
+      "type": "cartoon",
+      "age": "6+",
+      "quality": "FHD (1080p)",
+      "origin_name": "",
+      "year": 2016,
+      "activate_time": "2018-08-24 14:59:04",
+      "imdb": "6.1",
+      "imdb_id": "4685554",
+      "kinopoisk": "6.0",
+      "kinopoisk_id": "905034",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": "",
+      "poster": "https://img.imgilall.me/movies/franchise/1/7/9/1/0/0/0/0/0/0/610x900_1791.jpg",
+      "genre": {
+        "9": "Приключения",
+        "37": "Детский",
+        "34": "Полнометражный",
+        "33": "Семейный",
+        "22": "Русский",
+        "19": "Комедия"
+      },
+      "country": {
+        "5": "Россия"
+      },
+      "collection": {
+        "3": "Рождественские"
+      }
+    },
+    {
+      "id": 1790,
+      "name": "Три икса: Мировое господство",
+      "type": "film",
+      "age": "16+",
+      "quality": "FHD (1080p)",
+      "origin_name": "xXx: Return of Xander Cage",
+      "year": 2017,
+      "activate_time": "2018-08-24 14:57:50",
+      "imdb": "5.2",
+      "imdb_id": "1293847",
+      "kinopoisk": "5.3",
+      "kinopoisk_id": "428709",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/7/9/0/0/0/0/0/0/0/610x900_1790.jpg",
+      "genre": {
+        "9": "Приключения",
+        "41": "Блокбастер",
+        "17": "Боевик",
+        "13": "Триллер",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "21": "Для молодёжи"
+      }
+    },
+    {
       "id": 1789,
       "name": "Джимми – покоритель Америки",
       "type": "film",
@@ -6063,69 +6128,6 @@
       "collection": {
         "81": "Про звезд",
         "78": "Биографии",
-        "27": "Про жизнь"
-      }
-    },
-    {
-      "id": 1573,
-      "name": "Я – Хит Леджер",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "I Am Heath Ledger",
-      "year": 2017,
-      "activate_time": "2018-08-13 17:34:06",
-      "imdb": "7.4",
-      "imdb_id": "6739646",
-      "kinopoisk": "7.7",
-      "kinopoisk_id": "1043919",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/7/3/0/0/0/0/0/0/610x900_1573.jpg",
-      "genre": {
-        "54": "Документальный",
-        "27": "Биографический",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "7": "Канада"
-      },
-      "collection": {
-        "78": "Биографии",
-        "27": "Про жизнь"
-      }
-    },
-    {
-      "id": 1572,
-      "name": "Авичи: Правдивые истории",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "Avicii: True Stories",
-      "year": 2017,
-      "activate_time": "2018-08-13 17:32:46",
-      "imdb": "7.6",
-      "imdb_id": "7357302",
-      "kinopoisk": "7.8",
-      "kinopoisk_id": "1049371",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/7/2/0/0/0/0/0/0/610x900_1572.jpg",
-      "genre": {
-        "54": "Документальный",
-        "27": "Биографический",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "78": "Биографии",
-        "39": "На реальных событиях",
         "27": "Про жизнь"
       }
     }

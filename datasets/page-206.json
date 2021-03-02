@@ -1,6 +1,71 @@
 {
   "results": [
     {
+      "id": 1126,
+      "name": "План игры",
+      "type": "film",
+      "age": "12+",
+      "quality": "FHD (1080p)",
+      "origin_name": "The Game Plan",
+      "year": 2007,
+      "activate_time": "2018-07-06 17:09:06",
+      "imdb": "6.1",
+      "imdb_id": "0492956",
+      "kinopoisk": "7.1",
+      "kinopoisk_id": "260342",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/1/2/6/0/0/0/0/0/0/610x900_1126.jpg",
+      "genre": {
+        "37": "Детский",
+        "33": "Семейный",
+        "23": "Спортивный",
+        "19": "Комедия",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "82": "Молодежные комедии",
+        "76": "Про спорт",
+        "75": "Про футбол",
+        "37": "Disney",
+        "21": "Для молодёжи"
+      }
+    },
+    {
+      "id": 1124,
+      "name": "Рамона и Бизус",
+      "type": "film",
+      "age": "12+",
+      "quality": "HD (720p)",
+      "origin_name": "Ramona and Beezus",
+      "year": 2010,
+      "activate_time": "2018-07-06 17:05:58",
+      "imdb": "6.5",
+      "imdb_id": "0493949",
+      "kinopoisk": "7.2",
+      "kinopoisk_id": "446200",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/1/2/4/0/0/0/0/0/0/610x900_1124.jpg",
+      "genre": {
+        "9": "Приключения",
+        "6": "Фэнтези",
+        "33": "Семейный",
+        "19": "Комедия",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
       "id": 1123,
       "name": "Новичок",
       "type": "film",
@@ -6883,68 +6948,6 @@
       "collection": {
         "12": "Для мужчин",
         "62": "Про полицию"
-      }
-    },
-    {
-      "id": 901,
-      "name": "Враг государства",
-      "type": "film",
-      "age": "16+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Enemy of the State",
-      "year": 1998,
-      "activate_time": "2018-07-05 09:20:17",
-      "imdb": "7.3",
-      "imdb_id": "0120660",
-      "kinopoisk": "7.8",
-      "kinopoisk_id": "3954",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/9/0/1/0/0/0/0/0/0/0/610x900_901.jpg",
-      "genre": {
-        "25": "Криминал",
-        "24": "Детектив",
-        "17": "Боевик",
-        "13": "Триллер",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 900,
-      "name": "Чёрный ястреб / Падение чёрного ястреба",
-      "type": "film",
-      "age": "16+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Black Hawk Down",
-      "year": 2001,
-      "activate_time": "2018-07-05 09:19:25",
-      "imdb": "7.7",
-      "imdb_id": "0265086",
-      "kinopoisk": "7.8",
-      "kinopoisk_id": "612",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/9/0/0/0/0/0/0/0/0/0/610x900_900.jpg",
-      "genre": {
-        "32": "Военный",
-        "17": "Боевик",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США",
-        "2": "Великобритания"
-      },
-      "collection": {
-        "87": "Про снайперов",
-        "83": "Про танки"
       }
     }
   ]

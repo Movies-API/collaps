@@ -1,6 +1,81 @@
 {
   "results": [
     {
+      "id": 44218,
+      "name": "Кларисса",
+      "type": "series",
+      "age": null,
+      "quality": "FHD (1080p)",
+      "origin_name": "Clarice",
+      "year": 2021,
+      "activate_time": "2021-02-12 12:28:00",
+      "imdb": null,
+      "imdb_id": "2177268",
+      "kinopoisk": null,
+      "kinopoisk_id": "1355050",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/4/4/2/1/8/0/0/0/0/0/610x900_44218.jpg",
+      "genre": {
+        "25": "Криминал",
+        "24": "Детектив",
+        "13": "Триллер",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 44242,
+      "name": "Искра, буря, безумие",
+      "type": "film",
+      "age": "16+",
+      "quality": "FHD (1080p)",
+      "origin_name": "Me You Madness",
+      "year": 2021,
+      "activate_time": "2021-02-12 12:25:00",
+      "imdb": null,
+      "imdb_id": "9735790",
+      "kinopoisk": null,
+      "kinopoisk_id": "1236857",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/4/4/2/4/2/0/0/0/0/0/610x900_44242.jpg",
+      "genre": {
+        "19": "Комедия"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
       "id": 44232,
       "name": "Носильщики: Нерассказанная история на Эвересте",
       "type": "film",
@@ -9849,194 +9924,6 @@
         "29": "Бельгия",
         "82": "Марокко"
       }
-    },
-    {
-      "id": 44033,
-      "name": "Великие беглецы",
-      "type": "series",
-      "age": null,
-      "quality": "FHD (1080p)",
-      "origin_name": "The Great Escapists",
-      "year": 2021,
-      "activate_time": "2021-02-02 18:43:00",
-      "imdb": "5.6",
-      "imdb_id": "10948294",
-      "kinopoisk": null,
-      "kinopoisk_id": null,
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/4/4/0/3/3/0/0/0/0/0/610x900_44033.jpg",
-      "genre": {
-        "9": "Приключения",
-        "54": "Документальный"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "102": "Amazon"
-      },
-      "serial_status": "paused",
-      "seasons": [
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            },
-            {
-              "episode": 6,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 44032,
-      "name": "Возвращение домой",
-      "type": "series",
-      "age": null,
-      "quality": null,
-      "origin_name": "Eve Dönüs",
-      "year": 2015,
-      "activate_time": "2021-02-02 18:31:00",
-      "imdb": "6.0",
-      "imdb_id": "6214508",
-      "kinopoisk": null,
-      "kinopoisk_id": "1047924",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/4/4/0/3/2/0/0/0/0/0/610x900_44032.jpg",
-      "genre": {
-        "25": "Криминал",
-        "13": "Триллер",
-        "7": "Драма"
-      },
-      "country": {
-        "36": "Турция"
-      },
-      "serial_status": "offline",
-      "seasons": [
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            },
-            {
-              "episode": 6,
-              "iframe_url": ""
-            },
-            {
-              "episode": 7,
-              "iframe_url": ""
-            },
-            {
-              "episode": 8,
-              "iframe_url": ""
-            },
-            {
-              "episode": 9,
-              "iframe_url": ""
-            },
-            {
-              "episode": 10,
-              "iframe_url": ""
-            },
-            {
-              "episode": 11,
-              "iframe_url": ""
-            },
-            {
-              "episode": 12,
-              "iframe_url": ""
-            },
-            {
-              "episode": 13,
-              "iframe_url": ""
-            },
-            {
-              "episode": 14,
-              "iframe_url": ""
-            },
-            {
-              "episode": 15,
-              "iframe_url": ""
-            },
-            {
-              "episode": 16,
-              "iframe_url": ""
-            },
-            {
-              "episode": 17,
-              "iframe_url": ""
-            },
-            {
-              "episode": 18,
-              "iframe_url": ""
-            },
-            {
-              "episode": 19,
-              "iframe_url": ""
-            },
-            {
-              "episode": 20,
-              "iframe_url": ""
-            },
-            {
-              "episode": 21,
-              "iframe_url": ""
-            },
-            {
-              "episode": 22,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
     }
   ]
 }

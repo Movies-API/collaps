@@ -1,6 +1,66 @@
 {
   "results": [
     {
+      "id": 14544,
+      "name": "Одноклассники",
+      "type": "film",
+      "age": "12+",
+      "quality": "FHD (1080p)",
+      "origin_name": "Grown Ups",
+      "year": 2010,
+      "activate_time": "2020-01-20 22:30:00",
+      "imdb": "5.9",
+      "imdb_id": "1375670",
+      "kinopoisk": "6.8",
+      "kinopoisk_id": "450345",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/4/5/4/4/0/0/0/0/0/610x900_14544.jpg",
+      "genre": {
+        "19": "Комедия",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "82": "Молодежные комедии",
+        "21": "Для молодёжи"
+      }
+    },
+    {
+      "id": 14563,
+      "name": "Тёмные тайны моей мамы",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "My Mom's Darkest Secrets",
+      "year": 2019,
+      "activate_time": "2020-01-20 22:28:00",
+      "imdb": "5.1",
+      "imdb_id": "10578206",
+      "kinopoisk": null,
+      "kinopoisk_id": "1282728",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/4/5/6/3/0/0/0/0/0/610x900_14563.jpg",
+      "genre": {
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "7": "Канада"
+      },
+      "collection": {
+        "29": "Психологические",
+        "27": "Про жизнь"
+      }
+    },
+    {
       "id": 14566,
       "name": "Собственник",
       "type": "film",
@@ -12024,66 +12084,6 @@
       },
       "collection": {
         "39": "На реальных событиях",
-        "29": "Психологические"
-      }
-    },
-    {
-      "id": 14285,
-      "name": "В темноте",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "In Dark Places",
-      "year": 2018,
-      "activate_time": "2020-01-15 15:28:00",
-      "imdb": "7.6",
-      "imdb_id": "8106620",
-      "kinopoisk": null,
-      "kinopoisk_id": "1146667",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/4/2/8/5/0/0/0/0/0/610x900_14285.jpg",
-      "genre": {
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "23": "Новая Зеландия"
-      },
-      "collection": {
-        "56": "Про тюрьму",
-        "43": "Про подростков",
-        "19": "Про ограбления, аферы и мошенников"
-      }
-    },
-    {
-      "id": 14283,
-      "name": "Амитивилль: Экзорцизм",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Amityville Exorcism",
-      "year": 2017,
-      "activate_time": "2020-01-15 15:28:00",
-      "imdb": "4.3",
-      "imdb_id": "6068978",
-      "kinopoisk": null,
-      "kinopoisk_id": "1004575",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/4/2/8/3/0/0/0/0/0/610x900_14283.jpg",
-      "genre": {
-        "26": "Ужасы",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
         "29": "Психологические"
       }
     }
