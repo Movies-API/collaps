@@ -1,6 +1,299 @@
 {
   "results": [
     {
+      "id": 3792,
+      "name": "Если я останусь",
+      "type": "film",
+      "age": "12+",
+      "quality": "FHD (1080p)",
+      "origin_name": "If I Stay",
+      "year": 2014,
+      "activate_time": "2018-11-22 11:57:56",
+      "imdb": "6.7",
+      "imdb_id": "1355630",
+      "kinopoisk": "6.9",
+      "kinopoisk_id": "463860",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/3/7/9/2/0/0/0/0/0/0/610x900_3792.jpg",
+      "genre": {
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "33": "Экранизация книг"
+      }
+    },
+    {
+      "id": 3791,
+      "name": "То, что ее заводит",
+      "type": "film",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "Turn Me On, Dammit! / Få meg på, for faen",
+      "year": 2011,
+      "activate_time": "2018-11-22 11:33:46",
+      "imdb": "6.3",
+      "imdb_id": "1650407",
+      "kinopoisk": "5.5",
+      "kinopoisk_id": "579927",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/3/7/9/1/0/0/0/0/0/0/610x900_3791.jpg",
+      "genre": {
+        "55": "Эротика",
+        "19": "Комедия",
+        "10": "Зарубежный",
+        "8": "Мелодрама"
+      },
+      "country": {
+        "53": "Норвегия"
+      },
+      "collection": {
+        "43": "Про подростков",
+        "21": "Для молодёжи"
+      }
+    },
+    {
+      "id": 3790,
+      "name": "Райское озеро",
+      "type": "film",
+      "age": "18+",
+      "quality": "HD (720p)",
+      "origin_name": "Eden Lake",
+      "year": 2008,
+      "activate_time": "2018-11-22 11:11:14",
+      "imdb": "6.8",
+      "imdb_id": "1020530",
+      "kinopoisk": "6.9",
+      "kinopoisk_id": "373158",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/3/7/9/0/0/0/0/0/0/0/610x900_3790.jpg",
+      "genre": {
+        "26": "Ужасы",
+        "13": "Триллер",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "2": "Великобритания"
+      }
+    },
+    {
+      "id": 3789,
+      "name": "Дрянные девчонки",
+      "type": "film",
+      "age": "12+",
+      "quality": "FHD (1080p)",
+      "origin_name": "Mean Girls",
+      "year": 2004,
+      "activate_time": "2018-11-22 11:07:48",
+      "imdb": "7.0",
+      "imdb_id": "0377092",
+      "kinopoisk": "7.0",
+      "kinopoisk_id": "61254",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/3/7/8/9/0/0/0/0/0/0/610x900_3789.jpg",
+      "genre": {
+        "19": "Комедия",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "7": "Канада",
+        "1": "США"
+      },
+      "collection": {
+        "82": "Молодежные комедии",
+        "74": "Про школу",
+        "73": "Про девушек",
+        "43": "Про подростков"
+      }
+    },
+    {
+      "id": 3788,
+      "name": "Мой первый раз",
+      "type": "film",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "Ma premiere fois",
+      "year": 2012,
+      "activate_time": "2018-11-22 10:57:01",
+      "imdb": "6.1",
+      "imdb_id": "2152779",
+      "kinopoisk": "6.8",
+      "kinopoisk_id": "659922",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/3/7/8/8/0/0/0/0/0/0/610x900_3788.jpg",
+      "genre": {
+        "10": "Зарубежный",
+        "8": "Мелодрама",
+        "7": "Драма"
+      },
+      "country": {
+        "9": "Франция"
+      }
+    },
+    {
+      "id": 3787,
+      "name": "Шесть раз",
+      "type": "film",
+      "age": "18+",
+      "quality": "HD (720p)",
+      "origin_name": "Six Acts",
+      "year": 2012,
+      "activate_time": "2018-11-22 10:40:35",
+      "imdb": "6.1",
+      "imdb_id": "2278284",
+      "kinopoisk": "5.0",
+      "kinopoisk_id": "721920",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/3/7/8/7/0/0/0/0/0/0/610x900_3787.jpg",
+      "genre": {
+        "55": "Эротика",
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "72": "Израиль"
+      },
+      "collection": {
+        "43": "Про подростков",
+        "38": "Про любовь",
+        "21": "Для молодёжи"
+      }
+    },
+    {
+      "id": 3786,
+      "name": "Спеши любить",
+      "type": "film",
+      "age": "12+",
+      "quality": "FHD (1080p)",
+      "origin_name": "A Walk to Remember",
+      "year": 2002,
+      "activate_time": "2018-11-22 10:36:31",
+      "imdb": "7.4",
+      "imdb_id": "0281358",
+      "kinopoisk": "7.9",
+      "kinopoisk_id": "875",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/3/7/8/6/0/0/0/0/0/0/610x900_3786.jpg",
+      "genre": {
+        "10": "Зарубежный",
+        "8": "Мелодрама",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "74": "Про школу",
+        "38": "Про любовь",
+        "27": "Про жизнь",
+        "21": "Для молодёжи",
+        "11": "Для женщин"
+      }
+    },
+    {
+      "id": 3785,
+      "name": "Войны шефов",
+      "type": "tv-show",
+      "age": "12+",
+      "quality": "HD (720p)",
+      "origin_name": "The Final Table",
+      "year": 2018,
+      "activate_time": "2018-11-22 09:59:26",
+      "imdb": "7.7",
+      "imdb_id": "7619858",
+      "kinopoisk": null,
+      "kinopoisk_id": null,
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/3/7/8/5/0/0/0/0/0/0/610x900_3785.jpg",
+      "genre": {
+        "72": "Развлекательный",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "40": "Netflix"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": "https://img.imgilall.me/movies/season/2/0/4/3/0/0/0/0/0/0/610x900_2043.jpg",
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            },
+            {
+              "episode": 5,
+              "iframe_url": ""
+            },
+            {
+              "episode": 6,
+              "iframe_url": ""
+            },
+            {
+              "episode": 7,
+              "iframe_url": ""
+            },
+            {
+              "episode": 8,
+              "iframe_url": ""
+            },
+            {
+              "episode": 9,
+              "iframe_url": ""
+            },
+            {
+              "episode": 10,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 3784,
       "name": "Банда",
       "type": "series",
@@ -6379,255 +6672,6 @@
         "1": "США",
         "2": "Великобритания",
         "9": "Франция"
-      }
-    },
-    {
-      "id": 3566,
-      "name": "Драка в блоке 99",
-      "type": "film",
-      "age": "18+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Brawl in Cell Block 99",
-      "year": 2017,
-      "activate_time": "2018-11-15 17:45:46",
-      "imdb": "7.1",
-      "imdb_id": "5657856",
-      "kinopoisk": "6.9",
-      "kinopoisk_id": "980348",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/3/5/6/6/0/0/0/0/0/0/610x900_3566.jpg",
-      "genre": {
-        "25": "Криминал",
-        "17": "Боевик",
-        "13": "Триллер",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "56": "Про тюрьму"
-      }
-    },
-    {
-      "id": 3565,
-      "name": "Парфюмер: история одного убийцы",
-      "type": "film",
-      "age": "18+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Perfume: The Story of a Murderer",
-      "year": 2006,
-      "activate_time": "2018-11-15 17:40:52",
-      "imdb": "7.5",
-      "imdb_id": "0396171",
-      "kinopoisk": "7.7",
-      "kinopoisk_id": "78378",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/3/5/6/5/0/0/0/0/0/0/610x900_3565.jpg",
-      "genre": {
-        "25": "Криминал",
-        "6": "Фэнтези",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США",
-        "3": "Испания",
-        "9": "Франция",
-        "20": "Германия"
-      },
-      "collection": {
-        "33": "Экранизация книг",
-        "93": "Про средневековье",
-        "14": "Для взрослых"
-      }
-    },
-    {
-      "id": 3564,
-      "name": "Девушка в поезде",
-      "type": "film",
-      "age": "18+",
-      "quality": "HD (720p)",
-      "origin_name": "The Girl on the Train",
-      "year": 2016,
-      "activate_time": "2018-11-15 17:40:24",
-      "imdb": "6.5",
-      "imdb_id": "3631112",
-      "kinopoisk": "6.6",
-      "kinopoisk_id": "928391",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/3/5/6/4/0/0/0/0/0/0/610x900_3564.jpg",
-      "genre": {
-        "24": "Детектив",
-        "13": "Триллер",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "98": "DreamWorks"
-      }
-    },
-    {
-      "id": 3563,
-      "name": "Морской бой",
-      "type": "film",
-      "age": "12+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Battleship",
-      "year": 2012,
-      "activate_time": "2018-11-15 17:29:38",
-      "imdb": "5.8",
-      "imdb_id": "1440129",
-      "kinopoisk": "6.6",
-      "kinopoisk_id": "466844",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/3/5/6/3/0/0/0/0/0/0/610x900_3563.jpg",
-      "genre": {
-        "9": "Приключения",
-        "11": "Фантастика",
-        "32": "Военный",
-        "17": "Боевик",
-        "13": "Триллер",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "68": "Про роботов"
-      }
-    },
-    {
-      "id": 3561,
-      "name": "Эксперимент «Офис» 2 (Погром)",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "Mayhem",
-      "year": 2017,
-      "activate_time": "2018-11-15 17:04:49",
-      "imdb": "6.4",
-      "imdb_id": "4348012",
-      "kinopoisk": "5.8",
-      "kinopoisk_id": "972464",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/3/5/6/1/0/0/0/0/0/0/610x900_3561.jpg",
-      "genre": {
-        "26": "Ужасы",
-        "17": "Боевик",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 3560,
-      "name": "BBC. Земля: Один потрясающий день",
-      "type": "film",
-      "age": "6+",
-      "quality": "HD (720p)",
-      "origin_name": "Earth: One Amazing Day",
-      "year": 2017,
-      "activate_time": "2018-11-15 16:53:10",
-      "imdb": "7.8",
-      "imdb_id": "6238896",
-      "kinopoisk": "8.4",
-      "kinopoisk_id": "1029333",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/3/5/6/0/0/0/0/0/0/0/610x900_3560.jpg",
-      "genre": {
-        "54": "Документальный",
-        "33": "Семейный",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "2": "Великобритания"
-      },
-      "collection": {
-        "18": "Про животных"
-      }
-    },
-    {
-      "id": 3559,
-      "name": "Цель номер один",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "Zero Dark Thirty",
-      "year": 2012,
-      "activate_time": "2018-11-15 16:53:02",
-      "imdb": "7.4",
-      "imdb_id": "1790885",
-      "kinopoisk": "6.7",
-      "kinopoisk_id": "575332",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/3/5/5/9/0/0/0/0/0/0/610x900_3559.jpg",
-      "genre": {
-        "28": "Исторический",
-        "17": "Боевик",
-        "13": "Триллер",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 3558,
-      "name": "Король вечеринок",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "Van Wilder",
-      "year": 2002,
-      "activate_time": "2018-11-15 16:42:56",
-      "imdb": "6.4",
-      "imdb_id": "0283111",
-      "kinopoisk": "7.0",
-      "kinopoisk_id": "6519",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/3/5/5/8/0/0/0/0/0/0/610x900_3558.jpg",
-      "genre": {
-        "19": "Комедия",
-        "10": "Зарубежный",
-        "8": "Мелодрама"
-      },
-      "country": {
-        "1": "США",
-        "20": "Германия"
-      },
-      "collection": {
-        "82": "Молодежные комедии",
-        "36": "Романтические комедии"
       }
     }
   ]

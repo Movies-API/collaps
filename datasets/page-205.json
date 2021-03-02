@@ -1,6 +1,305 @@
 {
   "results": [
     {
+      "id": 1345,
+      "name": "Люди Икс: Апокалипсис",
+      "type": "film",
+      "age": "12+",
+      "quality": "FHD (1080p)",
+      "origin_name": "X-Men: Apocalypse",
+      "year": 2016,
+      "activate_time": "2018-07-31 15:07:17",
+      "imdb": "6.9",
+      "imdb_id": "3385516",
+      "kinopoisk": "7.0",
+      "kinopoisk_id": "814016",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": "",
+      "poster": "https://img.imgilall.me/movies/franchise/1/3/4/5/0/0/0/0/0/0/610x900_1345.jpg",
+      "genre": {
+        "9": "Приключения",
+        "11": "Фантастика",
+        "41": "Блокбастер",
+        "17": "Боевик",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "42": "Про супергероев",
+        "21": "Для молодёжи",
+        "1": "Marvel"
+      }
+    },
+    {
+      "id": 1344,
+      "name": "Парк Юрского периода 3",
+      "type": "film",
+      "age": "12+",
+      "quality": "FHD (1080p)",
+      "origin_name": "Jurassic Park III",
+      "year": 2001,
+      "activate_time": "2018-07-31 15:03:06",
+      "imdb": "5.9",
+      "imdb_id": "0163025",
+      "kinopoisk": "6.6",
+      "kinopoisk_id": "2982",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/3/4/4/0/0/0/0/0/0/610x900_1344.jpg",
+      "genre": {
+        "9": "Приключения",
+        "11": "Фантастика",
+        "6": "Фэнтези",
+        "17": "Боевик",
+        "13": "Триллер",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "91": "Про динозавров"
+      }
+    },
+    {
+      "id": 1343,
+      "name": "Парк Юрского периода 2: Затерянный мир",
+      "type": "film",
+      "age": "12+",
+      "quality": "FHD (1080p)",
+      "origin_name": "The Lost World: Jurassic Park",
+      "year": 1997,
+      "activate_time": "2018-07-31 15:00:45",
+      "imdb": "6.6",
+      "imdb_id": "0119567",
+      "kinopoisk": "7.0",
+      "kinopoisk_id": "1060",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/3/4/3/0/0/0/0/0/0/610x900_1343.jpg",
+      "genre": {
+        "9": "Приключения",
+        "11": "Фантастика",
+        "17": "Боевик",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "91": "Про динозавров"
+      }
+    },
+    {
+      "id": 1342,
+      "name": "Парк Юрского периода",
+      "type": "film",
+      "age": "6+",
+      "quality": "FHD (1080p)",
+      "origin_name": "Jurassic Park",
+      "year": 1993,
+      "activate_time": "2018-07-31 14:58:56",
+      "imdb": "8.1",
+      "imdb_id": "0107290",
+      "kinopoisk": "7.8",
+      "kinopoisk_id": "7121",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/3/4/2/0/0/0/0/0/0/610x900_1342.jpg",
+      "genre": {
+        "9": "Приключения",
+        "11": "Фантастика",
+        "33": "Семейный",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "91": "Про динозавров",
+        "35": "Самые кассовые"
+      }
+    },
+    {
+      "id": 1341,
+      "name": "Викинг",
+      "type": "film",
+      "age": "18+",
+      "quality": "FHD (1080p)",
+      "origin_name": "",
+      "year": 2016,
+      "activate_time": "2018-07-31 14:51:44",
+      "imdb": "4.5",
+      "imdb_id": "5157456",
+      "kinopoisk": "4.5",
+      "kinopoisk_id": "707407",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/3/4/1/0/0/0/0/0/0/610x900_1341.jpg",
+      "genre": {
+        "28": "Исторический",
+        "22": "Русский",
+        "7": "Драма"
+      },
+      "country": {
+        "5": "Россия"
+      },
+      "collection": {
+        "93": "Про средневековье"
+      }
+    },
+    {
+      "id": 1340,
+      "name": "Мама!",
+      "type": "film",
+      "age": "18+",
+      "quality": "FHD (1080p)",
+      "origin_name": "mother!",
+      "year": 2017,
+      "activate_time": "2018-07-31 14:50:08",
+      "imdb": "6.6",
+      "imdb_id": "5109784",
+      "kinopoisk": "7.1",
+      "kinopoisk_id": "938643",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/3/4/0/0/0/0/0/0/0/610x900_1340.jpg",
+      "genre": {
+        "26": "Ужасы",
+        "13": "Триллер",
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "45": "Фильмы на Хэллоуин"
+      }
+    },
+    {
+      "id": 1339,
+      "name": "Тёмная башня",
+      "type": "film",
+      "age": "16+",
+      "quality": "FHD (1080p)",
+      "origin_name": "The Dark Tower",
+      "year": 2017,
+      "activate_time": "2018-07-31 14:44:52",
+      "imdb": "5.6",
+      "imdb_id": "1648190",
+      "kinopoisk": "5.7",
+      "kinopoisk_id": "641780",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/3/3/9/0/0/0/0/0/0/610x900_1339.jpg",
+      "genre": {
+        "9": "Приключения",
+        "26": "Ужасы",
+        "11": "Фантастика",
+        "6": "Фэнтези",
+        "41": "Блокбастер",
+        "29": "Вестерн",
+        "17": "Боевик",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "45": "Фильмы на Хэллоуин",
+        "21": "Для молодёжи"
+      }
+    },
+    {
+      "id": 1338,
+      "name": "Валериан и город тысячи планет",
+      "type": "film",
+      "age": "12+",
+      "quality": "FHD (1080p)",
+      "origin_name": "Valerian and the City of a Thousand Planets",
+      "year": 2017,
+      "activate_time": "2018-07-31 14:43:56",
+      "imdb": "6.5",
+      "imdb_id": "2239822",
+      "kinopoisk": "6.8",
+      "kinopoisk_id": "689960",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": "",
+      "poster": "https://img.imgilall.me/movies/franchise/1/3/3/8/0/0/0/0/0/0/610x900_1338.jpeg",
+      "genre": {
+        "9": "Приключения",
+        "11": "Фантастика",
+        "6": "Фэнтези",
+        "41": "Блокбастер",
+        "17": "Боевик",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "7": "Канада",
+        "39": "ОАЭ",
+        "1": "США",
+        "2": "Великобритания",
+        "9": "Франция",
+        "19": "Китай",
+        "20": "Германия",
+        "29": "Бельгия"
+      },
+      "collection": {
+        "70": "Про инопланетян",
+        "28": "Про космос"
+      }
+    },
+    {
+      "id": 1337,
+      "name": "Притяжение",
+      "type": "film",
+      "age": "12+",
+      "quality": "FHD (1080p)",
+      "origin_name": "",
+      "year": 2017,
+      "activate_time": "2018-07-31 14:42:34",
+      "imdb": "5.6",
+      "imdb_id": "4731148",
+      "kinopoisk": "5.6",
+      "kinopoisk_id": "840250",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/3/3/7/0/0/0/0/0/0/610x900_1337.jpg",
+      "genre": {
+        "11": "Фантастика",
+        "41": "Блокбастер",
+        "22": "Русский"
+      },
+      "country": {
+        "5": "Россия"
+      },
+      "collection": {
+        "70": "Про инопланетян",
+        "28": "Про космос"
+      }
+    },
+    {
       "id": 1336,
       "name": "Чудо-женщина",
       "type": "film",
@@ -8732,280 +9031,6 @@
       },
       "country": {
         "1": "США"
-      }
-    },
-    {
-      "id": 1123,
-      "name": "Новичок",
-      "type": "film",
-      "age": "12+",
-      "quality": "HD (720p)",
-      "origin_name": "The Rookie",
-      "year": 2002,
-      "activate_time": "2018-07-06 17:04:56",
-      "imdb": "6.9",
-      "imdb_id": "0265662",
-      "kinopoisk": "7.1",
-      "kinopoisk_id": "808",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/1/2/3/0/0/0/0/0/0/610x900_1123.jpg",
-      "genre": {
-        "33": "Семейный",
-        "23": "Спортивный",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "76": "Про спорт",
-        "21": "Для молодёжи"
-      }
-    },
-    {
-      "id": 1122,
-      "name": "Все любят китов",
-      "type": "film",
-      "age": "0+",
-      "quality": "HD (720p)",
-      "origin_name": "Big Miracle",
-      "year": 2012,
-      "activate_time": "2018-07-06 17:03:37",
-      "imdb": "6.5",
-      "imdb_id": "1430615",
-      "kinopoisk": "7.2",
-      "kinopoisk_id": "462588",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/1/2/2/0/0/0/0/0/0/610x900_1122.jpg",
-      "genre": {
-        "37": "Детский",
-        "33": "Семейный",
-        "10": "Зарубежный",
-        "8": "Мелодрама",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США",
-        "2": "Великобритания"
-      },
-      "collection": {
-        "27": "Про жизнь"
-      }
-    },
-    {
-      "id": 1121,
-      "name": "Рождественское приключение Бетховена",
-      "type": "film",
-      "age": "6+",
-      "quality": "HD (720p)",
-      "origin_name": "Beethoven's Christmas Adventure",
-      "year": 2011,
-      "activate_time": "2018-07-06 16:54:46",
-      "imdb": "4.4",
-      "imdb_id": "1855134",
-      "kinopoisk": "3.7",
-      "kinopoisk_id": "588184",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/1/2/1/0/0/0/0/0/0/610x900_1121.jpg",
-      "genre": {
-        "6": "Фэнтези",
-        "19": "Комедия",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "7": "Канада",
-        "1": "США"
-      },
-      "collection": {
-        "18": "Про животных"
-      }
-    },
-    {
-      "id": 1120,
-      "name": "Бетховен: Большой бросок",
-      "type": "film",
-      "age": "6+",
-      "quality": "HD (720p)",
-      "origin_name": "Beethoven's Big Break",
-      "year": 2008,
-      "activate_time": "2018-07-06 16:53:45",
-      "imdb": "4.5",
-      "imdb_id": "1176410",
-      "kinopoisk": "4.5",
-      "kinopoisk_id": "404435",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/1/2/0/0/0/0/0/0/0/610x900_1120.jpg",
-      "genre": {
-        "33": "Семейный",
-        "19": "Комедия"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "18": "Про животных"
-      }
-    },
-    {
-      "id": 1119,
-      "name": "Бетховен 5",
-      "type": "film",
-      "age": "6+",
-      "quality": "SD",
-      "origin_name": "Beethoven's 5th",
-      "year": 2003,
-      "activate_time": "2018-07-06 16:51:49",
-      "imdb": "4.1",
-      "imdb_id": "0342108",
-      "kinopoisk": "4.9",
-      "kinopoisk_id": "13305",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/1/1/9/0/0/0/0/0/0/610x900_1119.jpg",
-      "genre": {
-        "37": "Детский",
-        "33": "Семейный",
-        "19": "Комедия",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 1118,
-      "name": "Бетховен 4",
-      "type": "film",
-      "age": "6+",
-      "quality": "HD (720p)",
-      "origin_name": "Beethoven's 4th",
-      "year": 2001,
-      "activate_time": "2018-07-06 16:49:08",
-      "imdb": "4.2",
-      "imdb_id": "0294345",
-      "kinopoisk": "5.0",
-      "kinopoisk_id": "79749",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/1/1/8/0/0/0/0/0/0/610x900_1118.jpg",
-      "genre": {
-        "33": "Семейный",
-        "19": "Комедия",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "18": "Про животных"
-      }
-    },
-    {
-      "id": 1117,
-      "name": "Бетховен 3",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "Beethoven's 3rd",
-      "year": 2000,
-      "activate_time": "2018-07-06 16:47:29",
-      "imdb": "4.2",
-      "imdb_id": "0206588",
-      "kinopoisk": "5.3",
-      "kinopoisk_id": "79750",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/1/1/7/0/0/0/0/0/0/610x900_1117.jpg",
-      "genre": {
-        "37": "Детский",
-        "33": "Семейный",
-        "19": "Комедия",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 1116,
-      "name": "Бетховен 2",
-      "type": "film",
-      "age": "6+",
-      "quality": "HD (720p)",
-      "origin_name": "Beethoven's 2nd",
-      "year": 1993,
-      "activate_time": "2018-07-06 16:45:27",
-      "imdb": "4.9",
-      "imdb_id": "0106375",
-      "kinopoisk": "6.8",
-      "kinopoisk_id": "10970",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/1/1/6/0/0/0/0/0/0/610x900_1116.jpg",
-      "genre": {
-        "37": "Детский",
-        "33": "Семейный",
-        "19": "Комедия",
-        "10": "Зарубежный",
-        "8": "Мелодрама"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "18": "Про животных"
-      }
-    },
-    {
-      "id": 1115,
-      "name": "Бетховен",
-      "type": "film",
-      "age": "6+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Beethoven",
-      "year": 1992,
-      "activate_time": "2018-07-06 16:42:22",
-      "imdb": "5.7",
-      "imdb_id": "0103786",
-      "kinopoisk": "7.3",
-      "kinopoisk_id": "15635",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/1/1/5/0/0/0/0/0/0/610x900_1115.jpg",
-      "genre": {
-        "33": "Семейный",
-        "19": "Комедия",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "18": "Про животных"
       }
     }
   ]
